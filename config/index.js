@@ -35,7 +35,7 @@ export const config = {
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: "oAVT86gEleLjSONUknY6-vKWHrEg",
       // 你想对他发送的模板消息的模板ID
-      useTemplateId: "gAJ2X3xkYHekMV4iD0-lN_XFjJj-DoVkj-MP1_7kJvs",
+      useTemplateId: "ze2_XemIah-jnAD4Nh4f__mZTpMm5mbWFW400_qiiBo",
       // 所在省份
       province: "山东",
       // 所在城市
@@ -43,32 +43,6 @@ export const config = {
       // 他点击详情后跳转的页面,你可以设置成微博的热榜，也可以设置成其他，网址一定要填对；不填对也没关系，随便你，会打不开而已。
       openUrl: "https://s.weibo.com/top/summary"
     }, 
-    {
-      name: "老婆1", 
-      id: "",
-      useTemplateId: "",
-      province: "",
-      city: "",
-      openUrl: "https://wangxinleo.cn"
-    }, 
-    {
-      name: "老婆2",
-      id: "",
-      useTemplateId: "",
-      province: "",
-      city: "",
-      openUrl: "https://wangxinleo.cn"
-    }, 
-    {
-      name: "老婆3", 
-      id: "",
-      useTemplateId: "",
-      province: "",
-      city: "",
-      openUrl: "https://wangxinleo.cn"
-    }, 
-  ],
-
   /**
    * 回调消息 相关，主要用来展示发送是否成功/失败的数据
    */
@@ -106,8 +80,8 @@ export const config = {
    * 节日时，name填写相应展示的节日，你可以填“被搭讪纪念日”
    */
   FESTIVALS: [
-    {"type": "生日", "name": "小梦宝贝", "year": "1996", "date": "12-29"},
-    {"type": "生日", "name": "小黑", "year": "1994", "date": "11-06"},
+    {"type": "生日", "name": "李小梦", "year": "1996", "date": "12-29"},
+    {"type": "生日", "name": "高丰竣", "year": "1994", "date": "11-06"},
   ],
 
   /**
