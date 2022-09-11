@@ -52,12 +52,12 @@ export const config = {
       openUrl: "https://s.weibo.com/top/summary"
     }, 
     {
-      name: "老婆2",
-      id: "",
-      useTemplateId: "",
-      province: "",
-      city: "",
-      openUrl: "https://wangxinleo.cn"
+      name: "丰竣",
+      id: "oAVT86gEleLjSONUknY6-vKWHrEg",
+      useTemplateId: "ze2_XemIah-jnAD4Nh4f__mZTpMm5mbWFW400_qiiBo",
+      province: "山东",
+      city: "潍坊",
+      openUrl: "https://s.weibo.com/top/summary"
     }, 
     {
       name: "老婆3", 
