@@ -35,7 +35,7 @@ export const config = {
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: "oAVT86qWf0LitwNQqrEet8SmUBX4",
       // 你想对他发送的模板消息的模板ID
-      useTemplateId: "ze2_XemIah-jnAD4Nh4f__mZTpMm5mbWFW400_qiiBo",
+      useTemplateId: "ncJ5fbweOebMfJIW81XOZ-mwHqvu0gTNLcApAEM8XI8",
       // 所在省份
       province: "山东",
       // 所在城市
@@ -46,7 +46,7 @@ export const config = {
     {
       name: "my", 
       id: "moAVT86gEleLjSONUknY6-vKWHrEg",
-      useTemplateId: "ze2_XemIah-jnAD4Nh4f__mZTpMm5mbWFW400_qiiBo",
+      useTemplateId: "ncJ5fbweOebMfJIW81XOZ-mwHqvu0gTNLcApAEM8XI8",
       province: "山东",
       city: "潍坊",
       openUrl: "https://s.weibo.com/top/summary"
@@ -54,7 +54,7 @@ export const config = {
     {
       name: "丰竣",
       id: "oAVT86gEleLjSONUknY6-vKWHrEg",
-      useTemplateId: "ze2_XemIah-jnAD4Nh4f__mZTpMm5mbWFW400_qiiBo",
+      useTemplateId: "ncJ5fbweOebMfJIW81XOZ-mwHqvu0gTNLcApAEM8XI8",
       province: "山东",
       city: "潍坊",
       openUrl: "https://s.weibo.com/top/summary"
