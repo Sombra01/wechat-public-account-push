@@ -106,7 +106,7 @@ export const config = {
    * 节日时，name填写相应展示的节日，你可以填“被搭讪纪念日”
    */
   FESTIVALS: [
-    {"type": "生日", "name": "李小梦", "year": "1996", "date": "12-29"},
+    {"type": "生日", "name": "李小梦", "year": "1996", "date": "01-09"},
     {"type": "生日", "name": "高丰竣", "year": "1994", "date": "11-06"},
   ],
 
